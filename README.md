@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vinita Ahire 👋
 
-<!--
-**vinita-ahire/vinita-ahire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Electronics & Telecommunication Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Embedded Systems
+- IoT
+- Electronics
+- Python
+- VLSI & Digital Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy building real-world electronics and IoT projects.
+
+## 🛠️ Skills
+- Embedded C / Arduino
+- ESP32
+- IoT
+- Git & GitHub
+- Basic Electronics
+
+## 📂 Projects
+- 🚨 IoT Emergency Alert System
+- 🔧 More projects coming soon...
+
+## 🎯 Currently Learning
+- Embedded Systems
+- IoT
+
+---
+
+⭐ Thanks for visiting my profile!
